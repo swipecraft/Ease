@@ -9,7 +9,7 @@
         "description": "We are a group of students pursuing BCA second year where our aim is to build efficient and secure features with adherence to regulations.",
         "webpageUrl": {
             "url": "https://github.com/swipecraft",
-            "wellKnown": "https://github.com/swipecraft/Ease/blob/main/.well-known/funding-%20manifest-urls"
+            "wellKnown": "https://github.com/swipecraft/Ease/blob/main/.well-known/funding-manifest-urls"
         }
     },
     "projects": [{
@@ -18,7 +18,7 @@
         "description": "A robust and advanced trading algorithm tailored which incorporates key features like historical data fetching, technical indicators, trade recommendations, simulated trade execution, voice command functionality for efficient trade execution, balance sheet reading for Indian companies which are released quarterly, investors portfolio analysis and suggesting calculated risk analysis.",
         "webpageUrl": {
             "url": "https://github.com/swipecraft/Ease",
-            "wellKnown": "https://github.com/swipecraft/Ease/blob/main/.well-known/funding-%20manifest-urls"
+            "wellKnown": "https://github.com/swipecraft/Ease/blob/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/swipecraft/Ease",
